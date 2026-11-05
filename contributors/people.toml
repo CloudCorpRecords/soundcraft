@@ -69,3 +69,8 @@ sync_github_name = true
 [people.kk376]
 real_name = "Kushagra Kumar"
 sync_github_name = true
+
+[people.CloudCorpRecords]
+real_name = "Rene Turcios"
+display_name = "Rene Turcios"
+sync_github_name = false
